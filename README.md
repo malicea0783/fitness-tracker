@@ -16,7 +16,9 @@ This fitness tracker will allow you to keep track of your cardio and weight lift
 
 ## Usage
 
-Follow these steps to use the Fitness Tracker: 1. Follow ths link to the deployed application: [Fitness Tracker](https://mig-fitness-tracker.herokuapp.com/).
+Follow these steps to use the Fitness Tracker: 
+    
+    1. Follow ths link to the deployed application: [Fitness Tracker](https://mig-fitness-tracker.herokuapp.com/).
 
     2.  From the `Fitness Tracker` page select `New Workout` or `Continue Workout`, choose either resistance or cardio and follow the prompts.
 
