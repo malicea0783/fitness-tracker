@@ -40,8 +40,8 @@ router.put("/api/workouts/:id", ({ body, params }, res) => {
     // "runValidators" will ensure new exercises meet our schema requirements
     { new: true, runValidators: true }
   )
-    .then((workout) => {
-      res.json(workout);
+    .then((workouts) => {
+      res.json(workouts);
     })
     .catch((err) => {
       res.json(err);
